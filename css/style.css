@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+:root {
+    --primary-background-color: #1B2226;
+    --input-search-color: #38434F;
+    --primary-text: #FFFFFFE5;
+
+}
+
+body {
+    box-sizing: border-box;
+}
